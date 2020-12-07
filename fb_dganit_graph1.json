@@ -1,60 +1,27 @@
 {
   "nodes": [
     {
-      "id": 1490996224,
+      "id": "1490996224",
       "node_degree": 15,
       "graph_partition": 3,
       "name": "Orit Alon Israeli"
     },
     {
-      "id": 100010109163040,
+      "id": "100010109163040",
       "node_degree": 14,
       "graph_partition": 3,
       "name": "Limor Ezra"
-    },
-    {
-      "id": 602088481,
-      "node_degree": 13,
-      "graph_partition": 4,
-      "name": "Ravit Shalev Dascallu"
-    },
-    {
-      "id": 1518637604,
-      "node_degree": 16,
-      "graph_partition": 3,
-      "name": "Einat Gershoni Zucker"
     }
+
 
   ],
   "edges": [
     {
       "edge_id": "1490996224_100010109163040",
-      "source": 1490996224,
-      "target": 100010109163040,
-      "edge_weight": 0,
-      "value": 1
-    },
-    {
-      "edge_id": "602088481_1518637604",
-      "source": 602088481,
-      "target": 1518637604,
-      "edge_weight": 0,
-      "value": 1
-    },
-    {
-      "edge_id": "1490996224_1518637604",
-      "source": 1490996224,
-      "target": 1518637604,
-      "edge_weight": 0,
-      "value": 1
-    },
-    {
-      "edge_id": "602088481_1518637604",
-      "source": 602088481,
-      "target": 1518637604,
+      "source": "1490996224",
+      "target": "100010109163040",
       "edge_weight": 0,
       "value": 1
     }
-
   ]
 }
